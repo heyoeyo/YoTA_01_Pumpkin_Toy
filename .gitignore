@@ -1,0 +1,4 @@
+
+# Don't include blenders backup files
+*.blend1
+*.kra~

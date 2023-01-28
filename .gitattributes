@@ -1,0 +1,12 @@
+pumpkin_metallic.kra filter=lfs diff=lfs merge=lfs -text
+pumpkin_roughness.kra filter=lfs diff=lfs merge=lfs -text
+pumpkin_stitch_bump.kra filter=lfs diff=lfs merge=lfs -text
+pumpkin_basecolor.kra filter=lfs diff=lfs merge=lfs -text
+pumpkin_eye_texture.kra filter=lfs diff=lfs merge=lfs -text
+pumpkin_toy.blend filter=lfs diff=lfs merge=lfs -text
+pumpkin_stitch_bump.png filter=lfs diff=lfs merge=lfs -text
+FluffNoise.png filter=lfs diff=lfs merge=lfs -text
+HiRes_Normals.png filter=lfs diff=lfs merge=lfs -text
+pumpkin_basecolor.png filter=lfs diff=lfs merge=lfs -text
+pumpkin_metallic.png filter=lfs diff=lfs merge=lfs -text
+pumpkin_roughness.png filter=lfs diff=lfs merge=lfs -text
